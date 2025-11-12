@@ -3,4 +3,6 @@ project(BankersAlgorithm)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(BankersAlgorithm main.cpp)
+add_executable(BankersAlgorithm main.cpp
+        BankersAlgorithm.h
+        BankersAlgorithm.cpp)
