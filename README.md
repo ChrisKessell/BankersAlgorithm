@@ -24,6 +24,7 @@ If the system is safe, it outputs a valid **safe sequence** of processes. If no 
 
 I spoke with Professor Jinhui Ma prior to programming assignment #1 and he told me it was okay to centralize all my Documentation (program description & explanation of key components), Readme (List and briefly describe each file included in your repository & usage instructions) into a single ReadMe file.
 
+<img width="1035" height="157" alt="image" src="https://github.com/user-attachments/assets/8f948755-49e5-40c7-8a3e-84209d5f7dee" />
 
 
 ## Files
